@@ -1,0 +1,1 @@
+The World Countries Tree is made using D3.js. The data was stored in json file and then computed accordingly. The Tree also has zooming and panning capabilities.
